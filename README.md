@@ -1,7 +1,7 @@
 # Ipomoea_lacunosa_Reference_Genome
 Ipomoea lacunosa: Reference Genome  Assembly of the I. lacunosa reference genome from PACBio HiFi long reads and scaffolding completed using HiC data.
 
-(The README is ment as a summarized vision on the contents of this folder; see the other directories for further explanation)
+(The README is ment as a summarized vision on the contents of this folder; see the other directories/files for further explanation)
 
 ## Ipomoea lacunosa: Reference Genome
 
